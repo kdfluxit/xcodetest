@@ -12,8 +12,10 @@
 #include <stdio.h>
 
 #endif /* class2_hpp */
-
+namespace classes
+{
 class two
 {
     
 };
+}

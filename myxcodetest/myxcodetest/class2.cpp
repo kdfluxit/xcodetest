@@ -7,3 +7,7 @@
 //
 
 #include "class2.hpp"
+namespace classes{
+    
+    
+}
